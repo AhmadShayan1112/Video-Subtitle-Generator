@@ -1,8 +1,9 @@
 streamlit
-whisper
 openai-whisper
 deep-translator
 google-generativeai
 gtts
 srt
 ffmpeg-python
+pydub
+python-dotenv
