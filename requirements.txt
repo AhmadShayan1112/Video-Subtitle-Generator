@@ -5,4 +5,4 @@ deep-translator
 google-generativeai
 gtts
 srt
-ffmpeg
+ffmpeg-python
